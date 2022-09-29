@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <gradient
+        android:startColor="@color/grey_button"
+        android:centerColor="@color/light_grey_button"
+        android:endColor="@color/grey_button"
+        android:angle="45">
+    </gradient>
+
+    <corners android:radius="10dp"></corners>
+
+    <stroke
+        android:width="@dimen/strokeButton"
+        android:color="@color/grey_stroke_button">
+    </stroke>
+
+</shape>

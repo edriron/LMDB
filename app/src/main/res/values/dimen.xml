@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="mainTitleSize">35sp</dimen>
+    <dimen name="topMarginTitle">50dp</dimen>
+    <dimen name="topMarginTitleLibrary">25dp</dimen>
+    <dimen name="strokeButton">2dp</dimen>
+    <dimen name="sp_40">40sp</dimen>
+</resources>
